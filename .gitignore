@@ -1,4 +1,4 @@
-/build/
+# Java build outputs
 *.class
-.DS_Store
-Thumbs.db
+/out/
+/build/
